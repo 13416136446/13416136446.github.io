@@ -87,16 +87,22 @@
 
 
 
-<meta name="description" content="说点什么">
+<meta name="description" content="说点什么
+试试目录侧边页的分类没有了不想在主页显示分类和标签
+是这样">
 <meta property="og:type" content="article">
 <meta property="og:title" content="测试">
 <meta property="og:url" content="http://13416136446.github.io./2017/03/27/test/index.html">
 <meta property="og:site_name" content="李广鹤的博客">
-<meta property="og:description" content="说点什么">
-<meta property="og:updated_time" content="2017-03-28T00:22:16.000Z">
+<meta property="og:description" content="说点什么
+试试目录侧边页的分类没有了不想在主页显示分类和标签
+是这样">
+<meta property="og:updated_time" content="2017-03-28T04:28:29.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="测试">
-<meta name="twitter:description" content="说点什么">
+<meta name="twitter:description" content="说点什么
+试试目录侧边页的分类没有了不想在主页显示分类和标签
+是这样">
 
 
 
@@ -105,7 +111,7 @@
   var CONFIG = {
     root: '/',
     scheme: 'Muse',
-    sidebar: {"position":"left","display":"post","offset":12,"offset_float":0,"b2t":false,"scrollpercent":false},
+    sidebar: {"position":"right","display":"post","offset":12,"offset_float":0,"b2t":false,"scrollpercent":false},
     fancybox: true,
     motion: true,
     duoshuo: {
@@ -155,7 +161,7 @@
     
   
 
-  <div class="container sidebar-position-left page-post-detail ">
+  <div class="container sidebar-position-right page-post-detail ">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -201,22 +207,32 @@
         </li>
       
         
-        <li class="menu-item menu-item-archives">
-          <a href="/archives" rel="section">
+        <li class="menu-item menu-item-life">
+          <a href="/life" rel="section">
             
-              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
+              <i class="menu-item-icon fa fa-fw fa-modx"></i> <br />
             
-            归档
+            生活
           </a>
         </li>
       
         
-        <li class="menu-item menu-item-tags">
-          <a href="/tags" rel="section">
+        <li class="menu-item menu-item-knowledge">
+          <a href="/knowledge" rel="section">
             
-              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br />
+              <i class="menu-item-icon fa fa-fw fa-book"></i> <br />
             
-            标签
+            新知
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-creation">
+          <a href="/creation" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-pencil"></i> <br />
+            
+            创作
           </a>
         </li>
       
@@ -254,7 +270,7 @@
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="liguanghe">
       <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="image" content="/images/avatar.png">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
@@ -296,6 +312,28 @@
           </span>
 
           
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/博客技术/" itemprop="url" rel="index">
+                    <span itemprop="name">博客技术</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
 
           
             
@@ -322,7 +360,8 @@
 
       
         <p>说点什么</p>
-
+<h2 id="试试目录"><a href="#试试目录" class="headerlink" title="试试目录"></a>试试目录</h2><p>侧边页的分类没有了<br>不想在主页显示分类和标签</p>
+<h3 id="是这样"><a href="#是这样" class="headerlink" title="是这样"></a>是这样</h3>
       
     </div>
 
@@ -354,22 +393,6 @@
         
       
 
-      
-        <div class="post-nav">
-          <div class="post-nav-next post-nav-item">
-            
-          </div>
-
-          <span class="post-nav-divider"></span>
-
-          <div class="post-nav-prev post-nav-item">
-            
-              <a href="/2017/03/27/first-post/" rel="prev" title="first-post">
-                first-post <i class="fa fa-chevron-right"></i>
-              </a>
-            
-          </div>
-        </div>
       
 
       
@@ -413,11 +436,20 @@
       
 
       
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap" >
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview">
+            站点概览
+          </li>
+        </ul>
+      
 
-      <section class="site-overview sidebar-panel sidebar-panel-active">
+      <section class="site-overview sidebar-panel">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
           <img class="site-author-image" itemprop="image"
-               src="/images/avatar.gif"
+               src="/images/avatar.png"
                alt="liguanghe" />
           <p class="site-author-name" itemprop="name">liguanghe</p>
            
@@ -428,13 +460,22 @@
 
           
             <div class="site-state-item site-state-posts">
-              <a href="/archives">
-                <span class="site-state-item-count">2</span>
+              <a href="/">
+                <span class="site-state-item-count">1</span>
                 <span class="site-state-item-name">日志</span>
               </a>
             </div>
           
 
+          
+            
+            
+            <div class="site-state-item site-state-categories">
+              <a href="/categories">
+                <span class="site-state-item-count">1</span>
+                <span class="site-state-item-name">分类</span>
+              </a>
+            </div>
           
 
           
@@ -444,6 +485,35 @@
         
 
         <div class="links-of-author motion-element">
+          
+            
+              <span class="links-of-author-item">
+                <a href="https://github.com/13416136446" target="_blank" title="GitHub">
+                  
+                    <i class="fa fa-fw fa-github"></i>
+                  
+                  GitHub
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://twitter.com/RaptorLiguanghe" target="_blank" title="Twitter">
+                  
+                    <i class="fa fa-fw fa-twitter"></i>
+                  
+                  Twitter
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://www.facebook.com/profile.php?id=100011231388906&ref=bookmarks" target="_blank" title="Facebook">
+                  
+                    <i class="fa fa-fw fa-globe"></i>
+                  
+                  Facebook
+                </a>
+              </span>
+            
           
         </div>
 
@@ -458,6 +528,22 @@
 
       </section>
 
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#试试目录"><span class="nav-number">1.</span> <span class="nav-text">试试目录</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#是这样"><span class="nav-number">1.1.</span> <span class="nav-text">是这样</span></a></li></ol></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
       
 
       
