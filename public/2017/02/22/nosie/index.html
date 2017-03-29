@@ -1,0 +1,722 @@
+<!doctype html>
+
+
+
+  
+
+
+<html class="theme-next muse use-motion" lang="zh-Hans">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+  
+  
+  
+  
+
+  
+    
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/css/main.css?v=5.1.0" rel="stylesheet" type="text/css" />
+
+
+  <meta name="keywords" content="Hexo, NexT" />
+
+
+
+
+
+
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=5.1.0" />
+
+
+
+
+
+
+<meta name="description" content="在我统治的星球里，每人脑中被植入了一个芯片，如果在公共场所故意发出超过指定分贝的声音，芯片便会爆炸，脑袋被炸飞，好像电影《王牌特工》里的爆头烟花那样美丽。
+不，我不是在中国的日本人或欧洲人。
+是的，我的灵感来自美剧《生活大爆炸》谢耳朵的想法：如果一个人说了蠢话，头便爆炸。
+这个星球上，曾经叫做家乡的地方荒无人烟：用手机玩狼人杀的青旅室友，玩k歌之王的亲戚，扯着脖子互相吼叫的夫妻，在微信里发养生经和">
+<meta property="og:type" content="article">
+<meta property="og:title" content="爆破音">
+<meta property="og:url" content="http://13416136446.github.io./2017/02/22/nosie/index.html">
+<meta property="og:site_name" content="李广鹤的博客">
+<meta property="og:description" content="在我统治的星球里，每人脑中被植入了一个芯片，如果在公共场所故意发出超过指定分贝的声音，芯片便会爆炸，脑袋被炸飞，好像电影《王牌特工》里的爆头烟花那样美丽。
+不，我不是在中国的日本人或欧洲人。
+是的，我的灵感来自美剧《生活大爆炸》谢耳朵的想法：如果一个人说了蠢话，头便爆炸。
+这个星球上，曾经叫做家乡的地方荒无人烟：用手机玩狼人杀的青旅室友，玩k歌之王的亲戚，扯着脖子互相吼叫的夫妻，在微信里发养生经和">
+<meta property="og:updated_time" content="2017-03-28T11:56:42.000Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="爆破音">
+<meta name="twitter:description" content="在我统治的星球里，每人脑中被植入了一个芯片，如果在公共场所故意发出超过指定分贝的声音，芯片便会爆炸，脑袋被炸飞，好像电影《王牌特工》里的爆头烟花那样美丽。
+不，我不是在中国的日本人或欧洲人。
+是的，我的灵感来自美剧《生活大爆炸》谢耳朵的想法：如果一个人说了蠢话，头便爆炸。
+这个星球上，曾经叫做家乡的地方荒无人烟：用手机玩狼人杀的青旅室友，玩k歌之王的亲戚，扯着脖子互相吼叫的夫妻，在微信里发养生经和">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Muse',
+    sidebar: {"position":"right","display":"post","offset":12,"offset_float":0,"b2t":false,"scrollpercent":false},
+    fancybox: true,
+    motion: true,
+    duoshuo: {
+      userId: '0',
+      author: '博主'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="http://13416136446.github.io./2017/02/22/nosie/"/>
+
+
+
+
+
+  <title> 爆破音 | 李广鹤的博客 </title>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-right page-post-detail ">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">李广鹤的博客</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle"></p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            首页
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-life">
+          <a href="/life" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-modx"></i> <br />
+            
+            生活
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-knowledge">
+          <a href="/knowledge" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-book"></i> <br />
+            
+            新知
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-creation">
+          <a href="/creation" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-pencil"></i> <br />
+            
+            创作
+          </a>
+        </li>
+      
+
+      
+    </ul>
+  
+
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="http://13416136446.github.io./2017/02/22/nosie/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="李广鹤">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="李广鹤的博客">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+            
+            
+              
+                爆破音
+              
+            
+          </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2017-02-22T18:35:32+08:00">
+                2017-02-22
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/认知写作/" itemprop="url" rel="index">
+                    <span itemprop="name">认知写作</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <p>在我统治的星球里，每人脑中被植入了一个芯片，如果在公共场所故意发出超过指定分贝的声音，芯片便会爆炸，脑袋被炸飞，好像电影《王牌特工》里的爆头烟花那样美丽。</p>
+<p>不，我不是在中国的日本人或欧洲人。</p>
+<p>是的，我的灵感来自美剧《生活大爆炸》谢耳朵的想法：如果一个人说了蠢话，头便爆炸。</p>
+<p>这个星球上，曾经叫做家乡的地方荒无人烟：用手机玩狼人杀的青旅室友，玩k歌之王的亲戚，扯着脖子互相吼叫的夫妻，在微信里发养生经和快板的人和点开听的人一起，地铁里不制止嚎啕大哭孩子的家长……都已经爆炸了。</p>
+<p>爆头法规只在特定时期有效，即在刚刚设立的时候，不符合这一规则的人大批去世，而原本就不会大声喧哗的人幸福地活着。<br>要说这些守法公民没有受到影响，也不是，这些突然倒下的尸体吓到了周围的人，我们不得不设立一个职业，随时冲出来，迅速的将尸体装袋离开现场，后来尸袋进化，套袋后按下按钮，袋内物体立即汽化为等比的水、脂肪、蛋白质、无机盐和纤维，便于处理。</p>
+<p>芯片先进之处在于判断现实的场景、区分这些噪音是否是必要。不然，突然碰一下他人，引发这个人惊叫一声，都可能构成谋杀。尚在研究的课题 是，如何添加足够强大的算法，计算彼时区域内人均感觉舒适的分贝，超出的在脑内警告，严重超出的仍然自爆。</p>
+<p>外国的游客没有这个芯片，也不会被炸到，只是，他们往往能感觉我国的气氛，自觉不发出声音。</p>
+<p>作为这个规则的设立者，我没有偏袒血亲们，他们并没有爆的晚一点。</p>
+<p>12岁，我离开他们，远离庞大嘈杂的家族，进入秩序的集体世界，与文字相处。我的星球中所有的生物和联系皆远离他们生长，这一规则的自然衍生也是如此，他们尚未理解，已然生效。</p>
+<p>成年子女有教导父母的责任和义务，这一法条尚在起草阶段，争议较大，公民们纷纷表示，教育难度太大，数十年的习惯难以去除。但即使生活在异星，身边均是其他人的父母，嘈杂者无处不在，法条的正式实施迫在眉睫。</p>
+<p>星球唯一的科学家，就是他发明了可以测量分贝及爆炸的芯片，决定发明一种规则提醒器，卖给政府。规则提醒器会在人脑即将做出违反规则的动作之前感知到，即使阻止并告知守则的行为习惯。政府愿意买单，前提是将规则提醒器和爆炸芯片结合起来。毕竟，汽化尸体的尸袋仍可处理尸体。</p>
+<p>我的星球运行轨道是长长的椭圆形，随着逐渐远离长轴一边端点，星球法规逐渐变化，到达另一端点，已经完全不同。对于循轨道运行一圈回到这个端点，星球公民毫不期待。毕竟，这个端点要设立大量的法规，是件麻烦事，科学家在另一个端点发明的事物，也有趣得多。 </p>
+
+      
+    </div>
+
+    <div>
+      
+        
+
+      
+    </div>
+
+    <div>
+      
+        
+
+      
+    </div>
+
+    <div>
+      
+        
+
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+        
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2017/02/11/imphone/" rel="next" title="手机的自我修养">
+                <i class="fa fa-chevron-left"></i> 手机的自我修养
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2017/02/22/card/" rel="prev" title="卡片和星空：将你脑中的所有想法放在眼前">
+                卡片和星空：将你脑中的所有想法放在眼前 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+  <div class="comments" id="comments">
+    
+  </div>
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar-inner">
+
+      
+
+      
+
+      <section class="site-overview sidebar-panel sidebar-panel-active">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <img class="site-author-image" itemprop="image"
+               src="/images/avatar.png"
+               alt="李广鹤" />
+          <p class="site-author-name" itemprop="name">李广鹤</p>
+           
+              <p class="site-description motion-element" itemprop="description"></p>
+          
+        </div>
+        <nav class="site-state motion-element">
+
+          
+            <div class="site-state-item site-state-posts">
+              <a href="/">
+                <span class="site-state-item-count">13</span>
+                <span class="site-state-item-name">日志</span>
+              </a>
+            </div>
+          
+
+          
+            
+            
+            <div class="site-state-item site-state-categories">
+              <a href="/categories">
+                <span class="site-state-item-count">6</span>
+                <span class="site-state-item-name">分类</span>
+              </a>
+            </div>
+          
+
+          
+
+        </nav>
+
+        
+
+        <div class="links-of-author motion-element">
+          
+            
+              <span class="links-of-author-item">
+                <a href="https://github.com/13416136446" target="_blank" title="GitHub">
+                  
+                    <i class="fa fa-fw fa-github"></i>
+                  
+                  GitHub
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://twitter.com/RaptorLiguanghe" target="_blank" title="Twitter">
+                  
+                    <i class="fa fa-fw fa-twitter"></i>
+                  
+                  Twitter
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://www.facebook.com/profile.php?id=100011231388906&ref=bookmarks" target="_blank" title="Facebook">
+                  
+                    <i class="fa fa-fw fa-globe"></i>
+                  
+                  Facebook
+                </a>
+              </span>
+            
+          
+        </div>
+
+        
+        
+
+        
+        
+
+        
+
+
+      </section>
+
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright" >
+  
+  &copy; 
+  <span itemprop="copyrightYear">2017</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">李广鹤</span>
+</div>
+
+
+<div class="powered-by">
+  由 <a class="theme-link" href="https://hexo.io">Hexo</a> 强力驱动
+</div>
+
+<div class="theme-info">
+  主题 -
+  <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
+    NexT.Muse
+  </a>
+</div>
+
+
+        
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+
+  
+  <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+
+  
+  <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+
+  
+  <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+
+  
+  <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.0"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.0"></script>
+
+
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.0"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.0"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.0"></script>
+
+
+
+  
+
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>

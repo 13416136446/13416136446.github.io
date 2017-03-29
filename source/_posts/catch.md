@@ -1,5 +1,6 @@
 ---
 title:  抓不住你
+date: 2017/3/27 18:09:46 
 categories: 
 - 认知写作
 ---
@@ -33,5 +34,6 @@ categories:
 烧在一起
 
 
-[仿海子《得不到你》]()(http://www.readers365.com/haizi/01/036.htm )
+[仿海子《得不到你][1]
 
+[1]:	http://www.readers365.com/haizi/01/036.htm

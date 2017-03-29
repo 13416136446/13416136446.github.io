@@ -1,22 +1,21 @@
 ---
 title:  离
+date: 2016/8/2 18:35:32
 categories: 
 - 认知写作
 ---
-仰躺荡波畔，
+\<center\> 仰躺荡波畔，\</center\> 
 
-余感水映光。
+\<center\>余感水映光。\</center\> 
 
-星布缓河流，
+\<center\> 星布缓河流，\</center\> 
 
-联空拢四方。
+\<center\>联空拢四方。\</center\> 
 
-忽而数侧翻，
+\<center\>忽而数侧翻，\</center\> 
 
-一跃立前行。
+\<center\>一跃立前行。\</center\> 
 
-我心高空外，
+\<center\>我心高空外，\</center\> 
 
-不及待天明。
-
-
+\<center\>不及待天明。\</center\> 
