@@ -71,3 +71,20 @@ deploy:
   type: git
   repo: git@github.com:13416136446/13416136446.github.io.git
   branch: master
+  
+# comments
+disqus_shortname: ligdhe-com
+
+# rss
+feed:
+  type: rss2
+  path: rss2.xml
+  limit: 0
+  hub:
+  content:
+# search
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000

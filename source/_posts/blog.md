@@ -10,7 +10,8 @@ categories:
 
 目前实现：
 在 ulysses 上写文章 -\> 命令行输入hexo g -d -\> 博客上显示了这篇文章 
-还是挺幸福的。
+![][image-1]
+
 
 ## 步骤
 - 建一个博客，将本地的电脑和网站联系起来，本地电脑文件夹里有新的内容，一键部署到公开的网站。
@@ -31,8 +32,14 @@ categories:
 主题：next 也有官方文档和github，有问题可以上issue查找。
 实用的朋友博客：[ 分类: 博客技术 | 浚宇的博客 ][2]
 
+## Ulysses和Github
+参见官方文档。
+Ulysses 用到的功能是： 文件-添加外部文件夹
+
 
 
 
 [1]:	https://gist.github.com/btfak/18938572f5df000ebe06fbd1872e4e39
 [2]:	http://blog.junyu.pro/
+
+[image-1]:	https://ww3.sinaimg.cn/large/006tNbRwgy1fe3lgaft9rg30dc07p1kz.gif
