@@ -3,6 +3,13 @@
   
     
     <entry>
+      <title><![CDATA[皆于斗室]]></title>
+      <url>%2F2017%2F04%2F14%2Flihe%2F</url>
+      <content type="text"><![CDATA[李贺臆《长平箭头歌》 李贺 漆灰骨末丹水砂，凄凄骨血生铜花。 白翎金簳雨中尽，直馀三脊残狼牙。 我寻平原乘两马，驿东时田蒿坞下。 风长日短星萧萧，黑旗云湿悬空夜。 左魂右魄啼饥瘦，酪瓶倒尽将羊炙。 虫栖雁病芦笋红，回风送客吹阴火。 访古执澜收断镞，折锋赤瑩曾刲肉。 南陌东城马上儿，劝我将金换寮竹。 宇文译Song of an Arrowhead from the Battlefield of Ch’ang-p’ing （Stephen Owen translated） Char of lacquer, powder of bone, pebble of cinnabar: In the chill gloom ancient blood blooms flowers in the bronze. ‘ The white feathers and gilt shaft have gone in the rains, And all that remains is this three-spined, broken wolf’s fang. I went searching over that level plain, driving my two-horse team, Through the stony fields east of the station by the foot of a weed-grown slope; Daylight shortened, the wind was steady, stars hung in its moaning, Black banners of cloud were draped soaking in the empty night sky. To my right and left their phantoms cried out, starving, lean: I poured a jug of cream in libation, took a lamb to roast. Insects settled, the geese flew sick, the sprouts of reeds turned red, And spiraling gusts sent the traveler on his way, blowing their shadowy fires. Seeker of the past, tears streaming, I reaped this snapped barb, Whose broken point and red-brown cracks once cut through flesh. On a southern lane in the capital’s eastern ward a boy on horseback Tried to get me to trade the metal for an offering basket. 我读眼珠上抬， 李贺俯身拾断箭。 宇文查阅丹水砂，骨末落漆李贺添， 青铜染血锈冰花。 完箭破胸肉， 我折箭，余力砍杀。 宇文痛 诗鬼惜叹。 灯明灼灼， 黑云如旗翻将上来。 你遇上我， 左边。 天光正浓， 星光隐隐暗了双目。 你见到他， 右边。 杀马割肉涂乳酪， 挽手齐叹。 剜了箭头，红了芦苇。 带它走。 宇文无意马上儿， 如果，我有寮竹。 你， 有箭么？ 我读，追忆。 宇文译，长平箭头歌。 李贺臆，箭镞。 皆于斗室。]]></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[博客也有朋友圈和通讯录 —— 新文章通知你]]></title>
       <url>%2F2017%2F04%2F07%2FRSS%2F</url>
       <content type="text"><![CDATA[同侪们响应阳志平老师号召，像黑客一样学习与写作 ，纷纷建了独立博客，谁的地盘谁做主。 博客搭好后，写了篇写作链炫耀，还记得这张动图么？三秒写作到发布。 发文平台在不断变化，最开始是微信公众号‘小鹤说’，后来改在简书‘李广鹤’，到现在独立博客‘李广鹤的博客’，似乎是与各位博主相反。 先生说，现在谁看博客啊？逆碎片化，写长文，他只是没有发现，牛人和大神还在继续着博客，不受点赞等等外在激励驱动，发自内心的沉淀着知识，发表灼见。 真正利用好时间的人，不看微信朋友圈，不看微信碎片文章，他们有更高效的沟通方式，在互联网开始不久产生了，并且一直沿用着。比如，blog、邮件，以及RSS订阅器。 不想让你看到我的某篇博文，随后忘记了这个博客的存在。方法是什么呢？ RSS订阅器/也称Feed订阅器。简单来说，它就是你的博客及网页的通讯录，也是分类朋友圈，如果你订阅了某人的博客，每当该博有新的文章，RSS订阅器就会提示你。 手把手教你用feed订阅器Feed订阅器与RSS订阅器基本是一回事，手机版、PC 版以及 Chrome 插件都有，搜索feed ho rss 即可。我用的是feeder，试用之后要收费，不过可以同步这些。免费的也很多，不妨选一个下来用。 下载好，在博客页面找到这个按钮：或这个：我的在这里：点击后，会跳出一个像乱码一样的页面，随后，订阅器会跳出：识别为可订阅的，是否subscribe？点击即可，以后有新的文章会通知你哦。 除了博客，你还可以： 订阅喜欢网站，有新消息会通知你，减少不断点开网页刷屏了。 关注某个微博名人。 其他的自己探索吧，重点是：订阅我先。 又及：如果你有博客，欢迎点击邮箱图标：发邮件告诉我你的博客、我会去串门和订阅哒。]]></content>
@@ -31,16 +38,16 @@
 
     
     <entry>
-      <title><![CDATA[写作链]]></title>
-      <url>%2F2017%2F03%2F27%2Fblog%2F</url>
-      <content type="text"><![CDATA[尝试省略写作到发布之间的无数点击。理想的写作链是这样的： 打开编辑器 -> 写字 -> 点击发布 -> 博客以及简书、公众号、朋友圈、微信群、知乎等所有的网站上都发布了这篇文章 -> 每篇文章的评论都统一在一个页面上。 目前实现：在 ulysses 上写文章 -> 命令行输入hexo g -d -> 博客上显示了这篇文章 步骤 建一个博客，将本地的电脑和网站联系起来，本地电脑文件夹里有新的内容，一键部署到公开的网站。 将电脑里的文件夹及文件和ulysses联系起来。我所有的文件都可以在ulysses，随时新建文件，更改内容，不用点击保存，随时更改。ulysses自带版本控制系统。 建独立博客费时许久，困难重重，一个坑后面是更多的坑，不过主体部分还是建好了，优化部分慢慢来。 折腾的过程随时有在写，可惜都在搭建博客的过程中被更新掉了，没有保留实践记录，也没有写出教程，所以不能说我已经会建博客了。现在再重新来过，可能会因为某一步骤的遗漏，重走弯路。对于之后的挖掘，也留下了不好的伏笔。从一个项目的角度来说，节奏也没有把握好。把看过好的链接放在下面。比我写的好的教程很多，看这个比看新人写的要好的多，即使她是你的朋友。优先官方文档哦 不管怎么说，我有一个独立博客啦。 源起：理想的写作环境|阳志平的网志托管的网站：github pages网页转化引擎：hexo 按照参考官方文档。建站：How to use Hexo and deploy to GitHub Pages主题：next 也有官方文档和github，有问题可以上issue查找。实用的朋友博客： 分类: 博客技术 | 浚宇的博客 Ulysses和Github参见官方文档。Ulysses 用到的功能是： 文件-添加外部文件夹]]></content>
+      <title><![CDATA[博客优化]]></title>
+      <url>%2F2017%2F03%2F27%2Fblogbetter%2F</url>
+      <content type="text"><![CDATA[Add comments functiondisqusdisqus 官网填写博客网站后，会给你一个short name 在blog修改站点配置文件和主题配置文件 添加disqus：short namehexo-next 主题下添加 Attention npm install in file Add visit times infohttp://theme-next.iissnan.com/getting-started.htmlhttps://notes.wanghao.work/2015-10-21-%E4%B8%BANexT%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0%E9%98%85%E8%AF%BB%E9%87%8F%E7%BB%9F%E8%AE%A1%E5%8A%9F%E8%83%BD.html#%E9%85%8D%E7%BD%AELeanCloudhttps://leancloud.cn/dashboard/data.html?appid=9GEqF7BQvsUPba1qXT9WOrNM-gzGzoHsz#/Counter themes - next - config.yml - leancloud - enable: true - id - key 只在创作页面发布打赏功能，晚点添加内容分享jia thisthemes - next - config.yml - jiathis（去掉#）http://theme-next.iissnan.com/third-party-services.html 互动我想到的三个方式： 填写你的邮箱，更新发到你的邮箱。如何添加邮箱订阅功能15种增加订阅的方法hexo添加订阅功能 关注我的公众号，更新推送。这里，每次更新公众号都需要管理员微信扫二维码才能登录，目前还没有想到自动的办法。 点击 RSS 关注，如果你有RSS阅读器的话。RSS 就相当于一个列表，你关注的人列表，有新消息也会发送给你。是早于Facebook、Twitter和微信微博的存在。后续会添加这个在页面。 独立博客属于？建一个独立博客，多少接触到了一些软件知识，这些知识属于什么呢？是前端开发么？如果想更改布局或者优化，想对此多了解一些。 后续会研究这个内容。]]></content>
     </entry>
 
     
     <entry>
-      <title><![CDATA[博客优化]]></title>
-      <url>%2F2017%2F03%2F27%2Fblogbetter%2F</url>
-      <content type="text"><![CDATA[Add comments functiondisqusdisqus 官网填写博客网站后，会给你一个short name 在blog修改站点配置文件和主题配置文件 添加disqus：short namehexo-next 主题下添加 Attention npm install in file Add visit times infohttp://theme-next.iissnan.com/getting-started.htmlhttps://notes.wanghao.work/2015-10-21-%E4%B8%BANexT%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0%E9%98%85%E8%AF%BB%E9%87%8F%E7%BB%9F%E8%AE%A1%E5%8A%9F%E8%83%BD.html#%E9%85%8D%E7%BD%AELeanCloudhttps://leancloud.cn/dashboard/data.html?appid=9GEqF7BQvsUPba1qXT9WOrNM-gzGzoHsz#/Counter themes - next - config.yml - leancloud - enable: true - id - key 只在创作页面发布打赏功能，晚点添加内容分享jia thisthemes - next - config.yml - jiathis（去掉#）http://theme-next.iissnan.com/third-party-services.html 互动我想到的三个方式： 填写你的邮箱，更新发到你的邮箱。如何添加邮箱订阅功能15种增加订阅的方法hexo添加订阅功能 关注我的公众号，更新推送。这里，每次更新公众号都需要管理员微信扫二维码才能登录，目前还没有想到自动的办法。 点击 RSS 关注，如果你有RSS阅读器的话。RSS 就相当于一个列表，你关注的人列表，有新消息也会发送给你。是早于Facebook、Twitter和微信微博的存在。后续会添加这个在页面。 独立博客属于？建一个独立博客，多少接触到了一些软件知识，这些知识属于什么呢？是前端开发么？如果想更改布局或者优化，想对此多了解一些。 后续会研究这个内容。]]></content>
+      <title><![CDATA[写作链]]></title>
+      <url>%2F2017%2F03%2F27%2Fblog%2F</url>
+      <content type="text"><![CDATA[尝试省略写作到发布之间的无数点击。理想的写作链是这样的： 打开编辑器 -> 写字 -> 点击发布 -> 博客以及简书、公众号、朋友圈、微信群、知乎等所有的网站上都发布了这篇文章 -> 每篇文章的评论都统一在一个页面上。 目前实现：在 ulysses 上写文章 -> 命令行输入hexo g -d -> 博客上显示了这篇文章 步骤 建一个博客，将本地的电脑和网站联系起来，本地电脑文件夹里有新的内容，一键部署到公开的网站。 将电脑里的文件夹及文件和ulysses联系起来。我所有的文件都可以在ulysses，随时新建文件，更改内容，不用点击保存，随时更改。ulysses自带版本控制系统。 建独立博客费时许久，困难重重，一个坑后面是更多的坑，不过主体部分还是建好了，优化部分慢慢来。 折腾的过程随时有在写，可惜都在搭建博客的过程中被更新掉了，没有保留实践记录，也没有写出教程，所以不能说我已经会建博客了。现在再重新来过，可能会因为某一步骤的遗漏，重走弯路。对于之后的挖掘，也留下了不好的伏笔。从一个项目的角度来说，节奏也没有把握好。把看过好的链接放在下面。比我写的好的教程很多，看这个比看新人写的要好的多，即使她是你的朋友。优先官方文档哦 不管怎么说，我有一个独立博客啦。 源起：理想的写作环境|阳志平的网志托管的网站：github pages网页转化引擎：hexo 按照参考官方文档。建站：How to use Hexo and deploy to GitHub Pages主题：next 也有官方文档和github，有问题可以上issue查找。实用的朋友博客： 分类: 博客技术 | 浚宇的博客 Ulysses和Github参见官方文档。Ulysses 用到的功能是： 文件-添加外部文件夹]]></content>
     </entry>
 
     
