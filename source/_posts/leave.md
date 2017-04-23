@@ -2,7 +2,7 @@
 title:  离
 date: 2016/8/2 18:35:32
 categories: 
-- 认知写作
+- writer
 ---
 \<center\> 仰躺荡波畔，\</center\> 
 

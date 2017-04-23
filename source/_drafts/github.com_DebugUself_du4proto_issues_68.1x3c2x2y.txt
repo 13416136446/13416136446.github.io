@@ -1,0 +1,113 @@
+## dama's loop
+```
+         Repository -> Commit +--+
+            ^                   email -> (Gmail)
+            |           +--------+         ^
+            |           |                  |
+        { GitHub } -> Issue <- [FireFox] <-+
+           ^ |                   |
+           | V              (It's All Text)
+          (SSH)                  |   
+           | |                   |  
+          [git]--+               |
+           ^ |   |               |
+           | V   |               |
+    local file   |               |
+        ^ |      +- wiki         |
+        | V          |           |
+      [ Sublime Text 3 ] --------+
+
+```
+
+## my loop 
+- issue and wiki
+```
+         Repository -> Commit 
+            ^           |
+            |           +
+            |           |               
+        { GitHub } -> Issue <- [FireFox]
+           ^ |                   |
+           | V              (It's All Text)
+          (SSH)                 ^|   
+           | |                  ||  
+          [git]--+              ||
+                 |              ||
+                 |              ||
+                 |              ||
+                 +- wiki        ||
+                     |   -------+|
+      [ Sublime Text 3 ] --------+
+
+```
+
+
+### done
+```
+
+                     Issue <- [FireFox] 
+                                 |
+                           (It's All Text)
+                                 |   
+                                 |  
+                                 |
+                                 |
+                                 |
+                                 |
+                                 |
+                                 |
+      [ Sublime Text 3 ] --------+
+
+```
+
+- write issue
+  - open firefox
+  - open issue
+  - open input field
+  - click 'edit'(it's all text)
+  - Subliem Text opened
+  - write
+  - command + s
+  - go back firefox
+  - comment
+  
+```
+         Repository -> Commit 
+            ^        
+            |                    
+            |                          
+        { GitHub } -> Issue 
+           ^ |                   
+           | V              
+          (SSH)                     
+           | |                     
+          [git]--+               
+           ^ |   |               
+           | V   |               
+    local file   |               
+        ^ |      +- wiki         
+        | V          |          
+      [ Sublime Text 3 ] 
+
+```
+
+- commit code and wiki
+  - local file: wiki
+  - git to Respository
+  - commit
+
+## not done yet
+
+```
+         Repository -> Commit +--+
+            ^                   email -> (Gmail)
+            |           +--------+         ^
+            |           |                  |
+        { GitHub } -> Issue <- [FireFox] <-+
+           
+```
+- commit code/wiki/issues
+- email 
+- gmail management (这里还没有尝试)
+  - follow issue: [[LOG]140219大妈聊邮件使用 纪要 · Issue #53 · DebugUself/du4proto](https://github.com/DebugUself/du4proto/issues/53)
+

@@ -26,11 +26,12 @@ categories:
 
 不管怎么说，我有一个独立博客啦。
 
+源起：[理想的写作环境|阳志平的网志][1]
 托管的网站：github pages 
 网页转化引擎：hexo 按照参考官方文档。
-建站：[How to use Hexo and deploy to GitHub Pages][1]
+建站：[How to use Hexo and deploy to GitHub Pages][2]
 主题：next 也有官方文档和github，有问题可以上issue查找。
-实用的朋友博客：[ 分类: 博客技术 | 浚宇的博客 ][2]
+实用的朋友博客：[ 分类: 博客技术 | 浚宇的博客 ][3]
 
 ## Ulysses和Github
 参见官方文档。
@@ -39,7 +40,8 @@ Ulysses 用到的功能是： 文件-添加外部文件夹
 
 
 
-[1]:	https://gist.github.com/btfak/18938572f5df000ebe06fbd1872e4e39
-[2]:	http://blog.junyu.pro/
+[1]:	http://www.yangzhiping.com/tech/hacker-writer.html
+[2]:	https://gist.github.com/btfak/18938572f5df000ebe06fbd1872e4e39
+[3]:	http://blog.junyu.pro/
 
 [image-1]:	https://ww3.sinaimg.cn/large/006tNbRwgy1fe3lgaft9rg30dc07p1kz.gif

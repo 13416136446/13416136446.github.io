@@ -1,0 +1,39 @@
+gmail 打造
+
+[Gmail 生活指南 | GDG Livin ZhuHai Life;-)](http://blog.zhgdg.org/2014-02/livin-gmail-guider/)
+
+- language: us
+- reply all
+- keyboard shortcut on
+- stars: move it by hand
+- labs 实验室功能
+- ![](http://ww4.sinaimg.cn/large/006tNbRwgy1fev7vujd4jj310c09wtcm.jpg)
+- keyboard shortcut
+    - [Keyboard shortcuts for Gmail - Computer - Gmail Help](https://support.google.com/mail/answer/6594?co=GENIE.Platform%3DDesktop&hl=en)
+    - enter = in mail convent
+    
+- archive inbox mail
+- *a = select all
+- e = archive
+
+- task
+- gs = in stars list
+
+[Create rules to filter your emails - Gmail Help](https://support.google.com/mail/answer/6579?hl=en)
+
+
+##  not done yet:
+- Outgoing message encoding: Use Unicode (UTF-8) encoding for outgoing messages
+
+    不用 UTF-8 就是耍流氓!
+- Labs: 实验室功能,常年开启
+
+    Authentication icon for verified senders
+    Auto-advance
+    Custom keyboard shortcuts
+        Archive -> A
+    Quote selected text
+    Smartlabels
+    Undo Send
+    Unread message icon
+- u 返回 conversations 列表

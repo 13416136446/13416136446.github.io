@@ -1,0 +1,28 @@
+72h[task][wiki]完善怼圈最小工具链的 wiki
+ 
+ ## 触发
+
+- 大妈隐藏在 wiki 中的最小工具链: [HbMiniDUloop · DebugUself/du4proto Wiki](https://github.com/DebugUself/du4proto/wiki/HbMiniDUloop)
+
+    - wiki page link is not appear at sidebar:
+        - add it in sidebar: wiki - sidebar - 指南
+
+- 怼友听过大妈语音后的实操:[[LOG]"du170412-1-it-all-text "大妈吐槽,大家纪要.](https://github.com/DebugUself/du4proto/issues/40)
+
+## 意义
+- 提高效率和协同
+
+## 方案
+
+请针对 最小工具链 完成以下流程, 回复在本 issue.
+回复内容包括但不限于: 尝试过程/感想/建议
+
+- [ ] 发现
+- [ ] 尝试
+- [ ] 教程增补
+- [ ] 相互加强
+- [ ] 形成公约
+- [ ] 持续改良
+
+## timelog
+20 min

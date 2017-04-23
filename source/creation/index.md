@@ -1,13 +1,18 @@
 ---
 title: creation
 date: 2017-03-28 17:05:14
+comments: false
 ---
 
 > 输出大于输入，创造体现个人的价值。
 
-目前的输出仅是文字:
-[分类：认知写作][1]
+目前输出仅是文字:
+[分类：writer][1]
+期待你的评论，互相不是过客。
 
 希望不仅如此，下面的空白要填内容
 
-[1]:	https://13416136446.github.io/categories/%E8%AE%A4%E7%9F%A5%E5%86%99%E4%BD%9C/
+[如何订阅李广鹤的博客][2]
+
+[1]:	https://13416136446.github.io/categories/writer/
+[2]:	http://13416136446.github.io./2017/04/07/RSS/

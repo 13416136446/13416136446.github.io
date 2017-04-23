@@ -1,0 +1,15 @@
+issue 动态到 email
+@NBR-hugh @17days 
+-  [DebugUself Dashboard](https://github.com/orgs/DebugUself/dashboard ) 是一个 feed 页面, 也就是说,可以订阅的.
+- 拉到最下面, 果然有:![](http://ww2.sinaimg.cn/large/006tNbRwgy1fesagsooujj30lk01g3yp.jpg)
+- 点击订阅即可.
+    - chrome 有 feeder 插件. 订阅后,这里每有消息都会在 feeder 栏里更新和提醒.而且是链接,点进去就可以直接回复了.
+     ![](http://ww1.sinaimg.cn/large/006tNbRwgy1fesaluvmwnj30q613kwlu.jpg)
+        - feeder 登录后应该可以发送邮件,这应该是下一步吧.
+    - firefox 没装 feed 插件, 点击订阅后, 选择在实时标签中订阅, 会出现在 firefox 的标签夹.
+     ![](http://ww3.sinaimg.cn/large/006tNbRwgy1fesam2s6ecj30vu0w84gs.jpg)
+    
+- 缺点:
+    + 所有 issue 改动都会告诉你, 你也不知道跟你有没有关系.
+    + 只有标题, 没有内容简介,不知道改动的内容是否跟自己有关.
+
