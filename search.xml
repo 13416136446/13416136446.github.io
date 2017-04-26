@@ -3,6 +3,13 @@
   
     
     <entry>
+      <title><![CDATA[活着 便是无休止的对话]]></title>
+      <url>%2F2017%2F04%2F26%2Fnote%2F</url>
+      <content type="text"><![CDATA[写作往往追求书面/精确的语句, \&lt;修辞认识>将人的语言的特点表现出来, 让我们在文字中加以使用. 将口头的放到书面中来. 默说, 不说出来, 但是读者都知道你在说什么, 或者, 能接受到你要表达的感觉. 踌躇, 找不到最适合的语言, 描述当时的情景, 如实写出寻找合适的语言的过程, 让人知道你找不到合适的语言, 在不是,不是,也不是的语句里, 慢慢明白你要说的是什么. 啰嗦和辞穷是思想贫乏者的特征, 不是他们独有, 作者如实的模拟进文字里, 带我们站在了他们身边, 这是高阶的写作技巧, 将感觉描述出来的方法. 身处语言禁锢, 正如思想被绑缚着. 读一本言语通顺, 内容丰富, 同时朗朗上口的专业书籍, 是如此的享受. 可是这样的书却少见, 没有读到这样的书, 便渐渐地连这方面的思考也放弃. 我们生活在母语之中, 即使是在脑子里面, 如果不用语言表述出来, 我们都不能清晰的知道自己在想什么. 而这些母语已经先于我们存在了. 语言不是产生于教科书, 而是一个巨大的 wiki , 每一个使用的人, 都在不断的扩充他的体量, 传播他, 散布他, 从父辈传给孩子. “口语不能被擦掉, 擦除它的方法是强调了他. 那些颤动的音符离开唇边, 便离开说者, 消逝的同时永远存在.” 要想清楚一件事情, 得先说清楚. 文字不能说清楚的事情, 口头也一定说不清楚. 即使见面, 也是浪费时间. 写项目 wiki, 是在练习思维逻辑. 讲故事, 是在感受生活. 活着, 便是无休止的对话.]]></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[font of code]]></title>
       <url>%2F2017%2F04%2F21%2Ffont-tool%2F</url>
       <content type="text"><![CDATA[推荐字体: Monoid 缘起: 大妈说有一款字体可以区分英文大小写, 以减少代码错误. 当时没听清是什么, 在大妈的工具箱和网页都找不到 google: 字体 程序员 简书推荐了上面的字体 google: Monoid 有人在用 样子也漂亮 在哪里用? 网上查在 Mac 上改看上去有点麻烦, 暂时不花时间. 代码用 Sublime Text, 改它的默认字体 通过菜单 Preferences/Settings - User, 添加下面这行配置就可以修改字体: &quot;font_face&quot;: &quot;Courier New&quot;,&quot;font_size&quot;: 10 保存则立即会生效。]]></content>
@@ -80,16 +87,16 @@
 
     
     <entry>
-      <title><![CDATA[博客优化]]></title>
-      <url>%2F2017%2F03%2F27%2Fblogbetter%2F</url>
-      <content type="text"><![CDATA[Add comments functiondisqusdisqus 官网填写博客网站后，会给你一个short name 在blog修改站点配置文件和主题配置文件 添加disqus：short namehexo-next 主题下添加 Attention npm install in file Add visit times infohttp://theme-next.iissnan.com/getting-started.htmlhttps://notes.wanghao.work/2015-10-21-%E4%B8%BANexT%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0%E9%98%85%E8%AF%BB%E9%87%8F%E7%BB%9F%E8%AE%A1%E5%8A%9F%E8%83%BD.html#%E9%85%8D%E7%BD%AELeanCloudhttps://leancloud.cn/dashboard/data.html?appid=9GEqF7BQvsUPba1qXT9WOrNM-gzGzoHsz#/Counter themes - next - config.yml - leancloud - enable: true - id - key 只在创作页面发布打赏功能，晚点添加内容分享jia thisthemes - next - config.yml - jiathis（去掉#）http://theme-next.iissnan.com/third-party-services.html 互动我想到的三个方式： 填写你的邮箱，更新发到你的邮箱。如何添加邮箱订阅功能15种增加订阅的方法hexo添加订阅功能 关注我的公众号，更新推送。这里，每次更新公众号都需要管理员微信扫二维码才能登录，目前还没有想到自动的办法。 点击 RSS 关注，如果你有RSS阅读器的话。RSS 就相当于一个列表，你关注的人列表，有新消息也会发送给你。是早于Facebook、Twitter和微信微博的存在。后续会添加这个在页面。 独立博客属于？建一个独立博客，多少接触到了一些软件知识，这些知识属于什么呢？是前端开发么？如果想更改布局或者优化，想对此多了解一些。 后续会研究这个内容。]]></content>
+      <title><![CDATA[写作链]]></title>
+      <url>%2F2017%2F03%2F27%2Fblog%2F</url>
+      <content type="text"><![CDATA[尝试省略写作到发布之间的无数点击。理想的写作链是这样的： 打开编辑器 -> 写字 -> 点击发布 -> 博客以及简书、公众号、朋友圈、微信群、知乎等所有的网站上都发布了这篇文章 -> 每篇文章的评论都统一在一个页面上。 目前实现：在 ulysses 上写文章 -> 命令行输入hexo g -d -> 博客上显示了这篇文章 步骤 建一个博客，将本地的电脑和网站联系起来，本地电脑文件夹里有新的内容，一键部署到公开的网站。 将电脑里的文件夹及文件和ulysses联系起来。我所有的文件都可以在ulysses，随时新建文件，更改内容，不用点击保存，随时更改。ulysses自带版本控制系统。 建独立博客费时许久，困难重重，一个坑后面是更多的坑，不过主体部分还是建好了，优化部分慢慢来。 折腾的过程随时有在写，可惜都在搭建博客的过程中被更新掉了，没有保留实践记录，也没有写出教程，所以不能说我已经会建博客了。现在再重新来过，可能会因为某一步骤的遗漏，重走弯路。对于之后的挖掘，也留下了不好的伏笔。从一个项目的角度来说，节奏也没有把握好。把看过好的链接放在下面。比我写的好的教程很多，看这个比看新人写的要好的多，即使她是你的朋友。优先官方文档哦 不管怎么说，我有一个独立博客啦。 源起：理想的写作环境|阳志平的网志托管的网站：github pages网页转化引擎：hexo 按照参考官方文档。建站：How to use Hexo and deploy to GitHub Pages主题：next 也有官方文档和github，有问题可以上issue查找。实用的朋友博客： 分类: 博客技术 | 浚宇的博客 Ulysses和Github参见官方文档。Ulysses 用到的功能是： 文件-添加外部文件夹]]></content>
     </entry>
 
     
     <entry>
-      <title><![CDATA[写作链]]></title>
-      <url>%2F2017%2F03%2F27%2Fblog%2F</url>
-      <content type="text"><![CDATA[尝试省略写作到发布之间的无数点击。理想的写作链是这样的： 打开编辑器 -> 写字 -> 点击发布 -> 博客以及简书、公众号、朋友圈、微信群、知乎等所有的网站上都发布了这篇文章 -> 每篇文章的评论都统一在一个页面上。 目前实现：在 ulysses 上写文章 -> 命令行输入hexo g -d -> 博客上显示了这篇文章 步骤 建一个博客，将本地的电脑和网站联系起来，本地电脑文件夹里有新的内容，一键部署到公开的网站。 将电脑里的文件夹及文件和ulysses联系起来。我所有的文件都可以在ulysses，随时新建文件，更改内容，不用点击保存，随时更改。ulysses自带版本控制系统。 建独立博客费时许久，困难重重，一个坑后面是更多的坑，不过主体部分还是建好了，优化部分慢慢来。 折腾的过程随时有在写，可惜都在搭建博客的过程中被更新掉了，没有保留实践记录，也没有写出教程，所以不能说我已经会建博客了。现在再重新来过，可能会因为某一步骤的遗漏，重走弯路。对于之后的挖掘，也留下了不好的伏笔。从一个项目的角度来说，节奏也没有把握好。把看过好的链接放在下面。比我写的好的教程很多，看这个比看新人写的要好的多，即使她是你的朋友。优先官方文档哦 不管怎么说，我有一个独立博客啦。 源起：理想的写作环境|阳志平的网志托管的网站：github pages网页转化引擎：hexo 按照参考官方文档。建站：How to use Hexo and deploy to GitHub Pages主题：next 也有官方文档和github，有问题可以上issue查找。实用的朋友博客： 分类: 博客技术 | 浚宇的博客 Ulysses和Github参见官方文档。Ulysses 用到的功能是： 文件-添加外部文件夹]]></content>
+      <title><![CDATA[博客优化]]></title>
+      <url>%2F2017%2F03%2F27%2Fblogbetter%2F</url>
+      <content type="text"><![CDATA[Add comments functiondisqusdisqus 官网填写博客网站后，会给你一个short name 在blog修改站点配置文件和主题配置文件 添加disqus：short namehexo-next 主题下添加 Attention npm install in file Add visit times infohttp://theme-next.iissnan.com/getting-started.htmlhttps://notes.wanghao.work/2015-10-21-%E4%B8%BANexT%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0%E9%98%85%E8%AF%BB%E9%87%8F%E7%BB%9F%E8%AE%A1%E5%8A%9F%E8%83%BD.html#%E9%85%8D%E7%BD%AELeanCloudhttps://leancloud.cn/dashboard/data.html?appid=9GEqF7BQvsUPba1qXT9WOrNM-gzGzoHsz#/Counter themes - next - config.yml - leancloud - enable: true - id - key 只在创作页面发布打赏功能，晚点添加内容分享jia thisthemes - next - config.yml - jiathis（去掉#）http://theme-next.iissnan.com/third-party-services.html 互动我想到的三个方式： 填写你的邮箱，更新发到你的邮箱。如何添加邮箱订阅功能15种增加订阅的方法hexo添加订阅功能 关注我的公众号，更新推送。这里，每次更新公众号都需要管理员微信扫二维码才能登录，目前还没有想到自动的办法。 点击 RSS 关注，如果你有RSS阅读器的话。RSS 就相当于一个列表，你关注的人列表，有新消息也会发送给你。是早于Facebook、Twitter和微信微博的存在。后续会添加这个在页面。 独立博客属于？建一个独立博客，多少接触到了一些软件知识，这些知识属于什么呢？是前端开发么？如果想更改布局或者优化，想对此多了解一些。 后续会研究这个内容。]]></content>
     </entry>
 
     
