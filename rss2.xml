@@ -8,8 +8,22 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Wed, 26 Apr 2017 03:30:54 GMT</pubDate>
+    <pubDate>Fri, 28 Apr 2017 15:02:32 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>岁月之书</title>
+      <link>http://ligdhe.com/2017/04/28/ageofbook/</link>
+      <guid>http://ligdhe.com/2017/04/28/ageofbook/</guid>
+      <pubDate>Fri, 28 Apr 2017 14:57:04 GMT</pubDate>
+      <description>
+      
+        &lt;h2 id=&quot;Alice&quot;&gt;&lt;a href=&quot;#Alice&quot; class=&quot;headerlink&quot; title=&quot;Alice&quot;&gt;&lt;/a&gt;Alice&lt;/h2&gt;&lt;p&gt;伏在案头, 爱丽丝在电脑的绘图软件中画着画, 画中的爱丽丝伏在案头,画着画…… 她环顾四周, 想把这些入画, 树皮色
+      
+      </description>
+      
+      <comments>http://ligdhe.com/2017/04/28/ageofbook/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>活着  便是无休止的对话</title>
@@ -172,6 +186,20 @@
     </item>
     
     <item>
+      <title>Read Github Guide</title>
+      <link>http://ligdhe.com/2017/03/31/learngit/</link>
+      <guid>http://ligdhe.com/2017/03/31/learngit/</guid>
+      <pubDate>Fri, 31 Mar 2017 10:08:44 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;After joining OpenMind courses, I touched Git and Github, it’s difficult for a girl who didn’t touch code before. As used it more often, 
+      
+      </description>
+      
+      <comments>http://ligdhe.com/2017/03/31/learngit/#disqus_thread</comments>
+    </item>
+    
+    <item>
       <title>出走</title>
       <link>http://ligdhe.com/2017/03/31/chinawild/</link>
       <guid>http://ligdhe.com/2017/03/31/chinawild/</guid>
@@ -186,17 +214,17 @@
     </item>
     
     <item>
-      <title>Read Github Guide</title>
-      <link>http://ligdhe.com/2017/03/31/learngit/</link>
-      <guid>http://ligdhe.com/2017/03/31/learngit/</guid>
-      <pubDate>Fri, 31 Mar 2017 10:08:44 GMT</pubDate>
+      <title>博客优化</title>
+      <link>http://ligdhe.com/2017/03/27/blogbetter/</link>
+      <guid>http://ligdhe.com/2017/03/27/blogbetter/</guid>
+      <pubDate>Mon, 27 Mar 2017 11:45:03 GMT</pubDate>
       <description>
       
-        &lt;p&gt;After joining OpenMind courses, I touched Git and Github, it’s difficult for a girl who didn’t touch code before. As used it more often, 
+        &lt;h2 id=&quot;Add-comments-function&quot;&gt;&lt;a href=&quot;#Add-comments-function&quot; class=&quot;headerlink&quot; title=&quot;Add comments function&quot;&gt;&lt;/a&gt;Add comments function&lt;/
       
       </description>
       
-      <comments>http://ligdhe.com/2017/03/31/learngit/#disqus_thread</comments>
+      <comments>http://ligdhe.com/2017/03/27/blogbetter/#disqus_thread</comments>
     </item>
     
     <item>
@@ -213,20 +241,6 @@
       </description>
       
       <comments>http://ligdhe.com/2017/03/27/blog/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>博客优化</title>
-      <link>http://ligdhe.com/2017/03/27/blogbetter/</link>
-      <guid>http://ligdhe.com/2017/03/27/blogbetter/</guid>
-      <pubDate>Mon, 27 Mar 2017 11:45:03 GMT</pubDate>
-      <description>
-      
-        &lt;h2 id=&quot;Add-comments-function&quot;&gt;&lt;a href=&quot;#Add-comments-function&quot; class=&quot;headerlink&quot; title=&quot;Add comments function&quot;&gt;&lt;/a&gt;Add comments function&lt;/
-      
-      </description>
-      
-      <comments>http://ligdhe.com/2017/03/27/blogbetter/#disqus_thread</comments>
     </item>
     
     <item>
