@@ -1,0 +1,11 @@
+谢谢明教~~ @sunoonlee 
+
+@DebugUself/du4all deepNLP 的笔记超过两篇, 就会有 meetup 哦~~ 
+
+> Natural language processing (NLP) is one of the most important technologies of the information age. 
+> Understanding complex language utterances is also a crucial part of artificial intelligence. Applications of NLP are everywhere because people communicate most everything in language: web search, advertisement, emails, customer service, language translation, radiology reports, etc. 
+> There are a large variety of underlying tasks and machine learning models powering NLP applications. 
+> Recently, deep learning approaches have obtained very high performance across many different NLP tasks. 
+> --摘自斯坦福大学 deepNLP 课程首页
+
+有前景的未来, 一起来深入了解吧~

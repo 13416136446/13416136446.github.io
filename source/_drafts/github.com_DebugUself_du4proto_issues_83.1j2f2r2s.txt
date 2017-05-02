@@ -1,0 +1,78 @@
+##  wiki 之后
+从产出来说, 是要出**代码** 啊
+
+
+
+- github 代码
+    - 首页 search : deep learning  
+    - 右边列表显示 语言列表 
+![](http://ww2.sinaimg.cn/large/006tNbRwly1fezwgkiip7j30f00l8t9u.jpg)
+
+    - search: google deeplearning code 
+    - search: deeplearning python
+    
+得到: deeplearning.net/tutorial/code/mlp.py
+里面有一个模块: theano
+    - google: deep learning module 
+        + top 9
+            * 第二个是 theano 
+github: theano
+![](http://ww4.sinaimg.cn/large/006tNbRwly1fezxqs7doij31kw0u9ahe.jpg)
+
+第一个: 官方文档
+第二个: 基于 theano 的 library
+第三个: 一个 包括 theano 的 python 中文笔记.
+
+点进第三个 看到了有体系的笔记.
+- 作者的背书是: 清华大学
+    - 虽然年纪不大, 这个大学给了他很好的背书
+- 可以看下他的笔记.
+
+- 他有机器学习的仓库 其中提到了:
+    - SCIentific PYthon 简介
+    - Ipython 提供了一个很好的解释器界面。
+    - Matplotlib 提供了一个类似 Matlab 的画图工具。
+    - Numpy 提供了 ndarray 对象，可以进行快速的向量化计算。
+    - Scipy 是 Python 中进行科学计算的一个第三方库，以 Numpy 为基础。
+    - Pandas 是处理时间序列数据的第三方库，提供一个类似 R 语言的环境。
+    - StatsModels 是一个统计库，着重于统计模型。
+    - Scikits 以 Scipy 为基础，提供如 scikits-learn 机器学习和scikits-image 图像处理等高级用法。
+    - 画图可视包
+    - Theano 是一个 Python 科学计算库，允许我们进行符号运算，并在 CPU 和 GPU 上执行。
+        - 按照官网上的说明，它拥有以下几个方面的特点：
+            - 与 Numpy, Scipy 的紧密结合
+            - GPU 加速
+            - 高效的符号计算
+            - 速度和稳定性
+            - 动态生成 C 代码
+- 数据分析库
+- 举例: 挑了一个我能看懂的
+- [notes-python/10.04-louis-cha's-kungfu-world.ipynb at master · lijin-THU/notes-python](https://github.com/lijin-THU/notes-python/blob/master/10-something-interesting/10.04-louis-cha's-kungfu-world.ipynb)
+
+## github: deepNLP
+[rockingdingo/deepnlp: Deep Learning NLP Pipeline implemented on Tensorflow](https://github.com/rockingdingo/deepnlp)
+deepnlp项目是基于Tensorflow平台的一个python版本的NLP套装, 目的在于将Tensorflow深度学习平台上的模块，结合 最新的一些算法，提供NLP基础模块的支持，并支持其他更加复杂的任务的拓展，如生成式文摘等等。
+
+    NLP 套装模块
+        分词 Word Segmentation/Tokenization
+        词性标注 Part-of-speech (POS)
+        命名实体识别 Named-entity-recognition(NER)
+        自动生成式文摘 Textsum (Seq2Seq-Attention)
+        关键句子抽取 Textrank
+        文本分类 Textcnn (WIP)
+        可调用 Web Restful API
+        计划中: 句法分析 Parsing
+
+    算法实现
+        分词: 线性链条件随机场 Linear Chain CRF, 基于CRF++包来实现
+        词性标注: 单向LSTM/ 双向BI-LSTM, 基于Tensorflow实现
+        命名实体识别: 单向LSTM/ 双向BI-LSTM/ LSTM-CRF 结合网络, 基于Tensorflow实现
+
+    预训练模型
+        中文: 基于人民日报语料和微博混合语料: 分词, 词性标注, 实体识别
+
+
+
+
+
+

@@ -6,419 +6,744 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
-			<key>00 - 2.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>512882964.43448502</real>
-				<key>version</key>
-				<dict>
-					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>69</integer>
-				</dict>
-			</dict>
-			<key>00.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>512882943.54490298</real>
-				<key>version</key>
-				<dict>
-					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>65</integer>
-				</dict>
-			</dict>
-			<key>01.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>512882948.19721299</real>
-				<key>version</key>
-				<dict>
-					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>67</integer>
-				</dict>
-			</dict>
-			<key>2017-01-21.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>512646932.77432001</real>
-				<key>version</key>
-				<dict>
-					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>6</integer>
-				</dict>
-			</dict>
-			<key>2017-03-07 13-30-51.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>512646999.10146201</real>
-				<key>version</key>
-				<dict>
-					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>12</integer>
-				</dict>
-			</dict>
-			<key>2017-03-08 13-30-58.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>512647006.60028303</real>
-				<key>version</key>
-				<dict>
-					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>14</integer>
-				</dict>
-			</dict>
-			<key>2017-03-10 23-41-23.md</key>
+			<key>2017-04-25-acterRight.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
 				<true/>
 				<key>firstUnassignment</key>
-				<real>513788259.40542102</real>
+				<real>515425815.80023497</real>
 				<key>lastModification</key>
-				<real>513788259.40542102</real>
+				<real>515425815.80023497</real>
 				<key>version</key>
 				<dict>
 					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>99</integer>
+					<integer>235</integer>
 				</dict>
 			</dict>
-			<key>2017-03-13 13-55-07.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>512647027.92886698</real>
-				<key>version</key>
-				<dict>
-					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>18</integer>
-				</dict>
-			</dict>
-			<key>2017-03-17 18-41-54.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>512647045.48767298</real>
-				<key>version</key>
-				<dict>
-					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>20</integer>
-				</dict>
-			</dict>
-			<key>2017-03-21 14-24-25.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>512647066.35343701</real>
-				<key>version</key>
-				<dict>
-					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>22</integer>
-				</dict>
-			</dict>
-			<key>2017-03-23 09-36-31.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>512647113.42208201</real>
-				<key>version</key>
-				<dict>
-					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>24</integer>
-				</dict>
-			</dict>
-			<key>2017-04-01 18-38-43.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>512735951.55069798</real>
-				<key>version</key>
-				<dict>
-					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>44</integer>
-				</dict>
-			</dict>
-			<key>2017-04-01 18-39-43.md</key>
+			<key>2017-04-25-whynotjiansu.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
 				<true/>
 				<key>firstUnassignment</key>
-				<real>513788232.665622</real>
+				<real>515170881.60371101</real>
 				<key>lastModification</key>
-				<real>513788232.665622</real>
+				<real>515170881.60371101</real>
 				<key>version</key>
 				<dict>
 					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>98</integer>
+					<integer>225</integer>
 				</dict>
 			</dict>
-			<key>2017-04-01 18-40-31 - 2.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>512736766.25622898</real>
-				<key>version</key>
-				<dict>
-					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>55</integer>
-				</dict>
-			</dict>
-			<key>2017-04-01.md</key>
+			<key>2017-04-28 writer004.txt</key>
 			<dict>
 				<key>explicitUnassignment</key>
 				<true/>
 				<key>firstUnassignment</key>
-				<real>514212501.36618501</real>
+				<real>515080288.13659501</real>
 				<key>lastModification</key>
-				<real>514212501.36618501</real>
+				<real>515081288.98573297</real>
 				<key>version</key>
 				<dict>
 					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>131</integer>
-				</dict>
-			</dict>
-			<key>2017-04-03 11-29-43.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>513788227.20199299</real>
-				<key>lastModification</key>
-				<real>513788227.20199299</real>
-				<key>version</key>
-				<dict>
-					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>97</integer>
-				</dict>
-			</dict>
-			<key>2017-04-03 19-57-36.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>513788222.90654999</real>
-				<key>lastModification</key>
-				<real>513788222.90654999</real>
-				<key>version</key>
-				<dict>
-					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>96</integer>
-				</dict>
-			</dict>
-			<key>2017-04-10 15-25-28.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>513501946.60717499</real>
-				<key>version</key>
-				<dict>
-					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>89</integer>
-				</dict>
-			</dict>
-			<key>2017-04-14 18-45-33 yangzhiping.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>513916200.76908797</real>
-				<key>lastModification</key>
-				<real>513916200.76908797</real>
-				<key>version</key>
-				<dict>
-					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>117</integer>
-				</dict>
-			</dict>
-			<key>2017-04-14 18-45-47.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>513916036.25930798</real>
-				<key>lastModification</key>
-				<real>513916036.25930798</real>
-				<key>version</key>
-				<dict>
-					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>114</integer>
-				</dict>
-			</dict>
-			<key>2017-04-15 10-29-21.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>513916167.23520797</real>
-				<key>version</key>
-				<dict>
-					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>115</integer>
-				</dict>
-			</dict>
-			<key>2017-04-15 10-30-47.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>513916259.72075999</real>
-				<key>version</key>
-				<dict>
-					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>120</integer>
-				</dict>
-			</dict>
-			<key>2017-04-18 19-23-07.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>514211648.67223299</real>
-				<key>lastModification</key>
-				<real>514211648.67223299</real>
-				<key>version</key>
-				<dict>
-					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>130</integer>
+					<integer>217</integer>
 				</dict>
 			</dict>
 			<key>GithubFeed.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515055505.784697</real>
 				<key>lastModification</key>
-				<real>514300647.008214</real>
+				<real>515055505.784697</real>
 				<key>version</key>
 				<dict>
 					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>134</integer>
+					<integer>202</integer>
 				</dict>
 			</dict>
-			<key>WriteEnglishLetter.md</key>
+			<key>github.com_13416136446_BP_Github_issues_5.1y3a2q1g.txt</key>
 			<dict>
 				<key>lastModification</key>
-				<real>513769639.70234799</real>
+				<real>515081288.98571998</real>
 				<key>version</key>
 				<dict>
 					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>93</integer>
+					<integer>217</integer>
 				</dict>
 			</dict>
-			<key>little story.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>514042865.38938898</real>
-				<key>version</key>
-				<dict>
-					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>124</integer>
-				</dict>
-			</dict>
-			<key>move.md</key>
+			<key>github.com_AIWriter_Writer004_issues_140.1j2y1c2f.txt</key>
 			<dict>
 				<key>explicitUnassignment</key>
 				<true/>
 				<key>firstUnassignment</key>
-				<real>514390248.16201001</real>
+				<real>514905324.85399997</real>
 				<key>lastModification</key>
-				<real>514390248.16201001</real>
+				<real>514905324.85399997</real>
 				<key>version</key>
 				<dict>
 					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>146</integer>
+					<integer>200</integer>
 				</dict>
 			</dict>
-			<key>st1.md</key>
+			<key>github.com_AIWriter_Writer004_issues_188.2u2z2r1u.txt</key>
 			<dict>
 				<key>explicitUnassignment</key>
 				<true/>
 				<key>firstUnassignment</key>
-				<real>514390255.02492398</real>
+				<real>515084616.16676301</real>
 				<key>lastModification</key>
-				<real>514390255.02492398</real>
+				<real>515084616.16676301</real>
 				<key>version</key>
 				<dict>
 					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-					<integer>147</integer>
+					<integer>219</integer>
+				</dict>
+			</dict>
+			<key>github.com_AIWriter_Writer004_issues_188.362p3e1h.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515084620.72441798</real>
+				<key>lastModification</key>
+				<real>515084620.72441798</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>220</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_23.39251e1l.txt</key>
+			<dict>
+				<key>lastModification</key>
+				<real>515081288.985726</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>217</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_28.2v2c222d.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515248484.20177501</real>
+				<key>lastModification</key>
+				<real>515248484.20177501</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>230</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_3.222s2027.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515060824.81010801</real>
+				<key>lastModification</key>
+				<real>515060824.81010801</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>210</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_35.252q2i2u.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515055505.83170998</real>
+				<key>lastModification</key>
+				<real>515055505.83170998</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>204</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_40.2x1u2g1f.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515055505.87770802</real>
+				<key>lastModification</key>
+				<real>515055505.87770802</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>209</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_46.1x2y2922.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>514905324.82646799</real>
+				<key>lastModification</key>
+				<real>514905324.82646799</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>197</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_51.1d1k2r32.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515055505.86565202</real>
+				<key>lastModification</key>
+				<real>515055505.86565202</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>207</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_53.2d322a2r.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515208526.65746301</real>
+				<key>lastModification</key>
+				<real>515208526.65746301</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>229</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_55.2v1i1b32.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>514905324.84480202</real>
+				<key>lastModification</key>
+				<real>514905324.84480202</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>199</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_55.2w2d1x25.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>514905324.755005</real>
+				<key>lastModification</key>
+				<real>514905324.755005</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>196</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_57.1b2q2932.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515055505.85656297</real>
+				<key>lastModification</key>
+				<real>515055505.85656297</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>206</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_57.3a1x351j.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515055505.8186</real>
+				<key>lastModification</key>
+				<real>515055505.8186</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>203</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_59.202d391u.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515055505.84487998</real>
+				<key>lastModification</key>
+				<real>515055505.84487998</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>205</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_61.2x303517.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>514905324.85503799</real>
+				<key>lastModification</key>
+				<real>514905324.85503799</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>201</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_62.1c3e1v2z.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515055505.87087202</real>
+				<key>lastModification</key>
+				<real>515055505.87087202</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>208</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_68.1w292u2t.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515142743.60366303</real>
+				<key>lastModification</key>
+				<real>515142743.60366303</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>221</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_68.1x3c2x2y.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515142743.71512902</real>
+				<key>lastModification</key>
+				<real>515142743.71512902</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>222</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_68.252u3421.txt</key>
+			<dict>
+				<key>lastModification</key>
+				<real>514737347.46425402</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>168</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_71.2835392v.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515155750.37059802</real>
+				<key>lastModification</key>
+				<real>515155750.37059802</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>224</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_72.2b1g2u1x.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515248484.20920801</real>
+				<key>lastModification</key>
+				<real>515248484.20920801</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>231</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_72.331i2f2w.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515248484.211209</real>
+				<key>lastModification</key>
+				<real>515248484.211209</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>232</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_73.2x312417.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515208526.53269798</real>
+				<key>lastModification</key>
+				<real>515208526.53269798</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>228</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_74.1d3a1z1e.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515203813.145886</real>
+				<key>lastModification</key>
+				<real>515203813.145886</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>227</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_74.1y3a3633.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515203158.09908199</real>
+				<key>lastModification</key>
+				<real>515203158.09908199</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>226</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_75.2f2u3a1y.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515425815.80025703</real>
+				<key>lastModification</key>
+				<real>515425815.80025703</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>235</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_75.312i1l2z.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515248484.213072</real>
+				<key>lastModification</key>
+				<real>515248484.213072</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>233</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_78.1h1f252z.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515425815.800264</real>
+				<key>lastModification</key>
+				<real>515425815.800264</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>235</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_78.232i3b2r.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515425815.80026102</real>
+				<key>lastModification</key>
+				<real>515425815.80026102</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>235</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_82.1j2z2d1u.txt</key>
+			<dict>
+				<key>lastModification</key>
+				<real>514785847.39523703</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>174</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_83.1j2f2r2s.txt</key>
+			<dict>
+				<key>lastModification</key>
+				<real>515081288.98571903</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>217</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_83.1u2i252x.txt</key>
+			<dict>
+				<key>lastModification</key>
+				<real>514786608.17119402</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>195</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_85.3b2e2c3e.txt</key>
+			<dict>
+				<key>lastModification</key>
+				<real>515081288.98571998</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>217</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_87.1h1c2u30.txt</key>
+			<dict>
+				<key>lastModification</key>
+				<real>515081288.98573601</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>217</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_issues_new.1i2u382p.txt</key>
+			<dict>
+				<key>lastModification</key>
+				<real>515155606.71673</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>223</integer>
+				</dict>
+			</dict>
+			<key>github.com_DebugUself_du4proto_wiki_How2gitDUW__edit.2v1h2x2a.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>514905324.83898097</real>
+				<key>lastModification</key>
+				<real>514905324.83898097</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>198</integer>
+				</dict>
+			</dict>
+			<key>无标题.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515081292.98688799</real>
+				<key>lastModification</key>
+				<real>515081292.98688799</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>218</integer>
+				</dict>
+			</dict>
+			<key>研究生送审前, 我都要干啥?.mdown</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515375533.10639399</real>
+				<key>lastModification</key>
+				<real>515375533.10639399</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>234</integer>
 				</dict>
 			</dict>
 		</dict>
 		<key>sheetOrder</key>
-		<real>512882924.32840502</real>
+		<real>514786491.55795801</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>2017-04-18 19-23-07.md</string>
+			<string>无标题.md</string>
 		</array>
 		<array>
-			<string>st1.md</string>
-		</array>
-		<array>
-			<string>move.md</string>
+			<string>2017-04-25-acterRight.md</string>
 		</array>
 		<array>
 			<string>GithubFeed.md</string>
 		</array>
 		<array>
-			<string>little story.md</string>
+			<string>github.com_DebugUself_du4proto_issues_40.2x1u2g1f.txt</string>
 		</array>
 		<array>
-			<string>2017-04-15 10-30-47.md</string>
+			<string>github.com_DebugUself_du4proto_issues_new.1i2u382p.txt</string>
 		</array>
 		<array>
-			<string>2017-04-15 10-29-21.md</string>
+			<string>github.com_DebugUself_du4proto_issues_55.2v1i1b32.txt</string>
 		</array>
 		<array>
-			<string>2017-04-14 18-45-47.md</string>
+			<string>github.com_DebugUself_du4proto_issues_55.2w2d1x25.txt</string>
 		</array>
 		<array>
-			<string>2017-04-14 18-45-33 yangzhiping.md</string>
+			<string>github.com_DebugUself_du4proto_issues_46.1x2y2922.txt</string>
 		</array>
 		<array>
-			<string>WriteEnglishLetter.md</string>
+			<string>github.com_DebugUself_du4proto_wiki_How2gitDUW__edit.2v1h2x2a.txt</string>
 		</array>
 		<array>
-			<string>2017-04-10 15-25-28.md</string>
+			<string>github.com_DebugUself_du4proto_issues_57.1b2q2932.txt</string>
 		</array>
 		<array>
-			<string>2017-04-03 19-57-36.md</string>
+			<string>github.com_AIWriter_Writer004_issues_140.1j2y1c2f.txt</string>
 		</array>
 		<array>
-			<string>2017-04-01.md</string>
+			<string>github.com_DebugUself_du4proto_issues_61.2x303517.txt</string>
 		</array>
 		<array>
-			<string>2017-04-03 11-29-43.md</string>
+			<string>github.com_DebugUself_du4proto_issues_35.252q2i2u.txt</string>
 		</array>
 		<array>
-			<string>2017-04-01 18-40-31 - 2.md</string>
+			<string>github.com_DebugUself_du4proto_issues_57.3a1x351j.txt</string>
 		</array>
 		<array>
-			<string>00.md</string>
+			<string>github.com_DebugUself_du4proto_issues_59.202d391u.txt</string>
 		</array>
 		<array>
-			<string>00 - 2.md</string>
+			<string>2017-04-25-whynotjiansu.md</string>
 		</array>
 		<array>
-			<string>2017-04-01 18-38-43.md</string>
+			<string>github.com_DebugUself_du4proto_issues_62.1c3e1v2z.txt</string>
 		</array>
 		<array>
-			<string>2017-04-01 18-39-43.md</string>
+			<string>github.com_DebugUself_du4proto_issues_51.1d1k2r32.txt</string>
 		</array>
 		<array>
-			<string>2017-03-23 09-36-31.md</string>
+			<string>github.com_DebugUself_du4proto_issues_3.222s2027.txt</string>
 		</array>
 		<array>
-			<string>2017-03-21 14-24-25.md</string>
+			<string>研究生送审前, 我都要干啥?.mdown</string>
 		</array>
 		<array>
-			<string>2017-03-17 18-41-54.md</string>
+			<string>github.com_DebugUself_du4proto_issues_68.252u3421.txt</string>
 		</array>
 		<array>
-			<string>2017-03-13 13-55-07.md</string>
+			<string>github.com_DebugUself_du4proto_issues_53.2d322a2r.txt</string>
 		</array>
 		<array>
-			<string>2017-03-10 23-41-23.md</string>
+			<string>github.com_DebugUself_du4proto_issues_68.1x3c2x2y.txt</string>
 		</array>
 		<array>
-			<string>2017-03-08 13-30-58.md</string>
+			<string>github.com_DebugUself_du4proto_issues_68.1w292u2t.txt</string>
 		</array>
 		<array>
-			<string>2017-03-07 13-30-51.md</string>
+			<string>github.com_DebugUself_du4proto_issues_71.2835392v.txt</string>
 		</array>
 		<array>
-			<string>2017-01-21.md</string>
+			<string>github.com_DebugUself_du4proto_issues_74.1y3a3633.txt</string>
 		</array>
 		<array>
-			<string>01.md</string>
+			<string>github.com_DebugUself_du4proto_issues_74.1d3a1z1e.txt</string>
+		</array>
+		<array>
+			<string>github.com_DebugUself_du4proto_issues_73.2x312417.txt</string>
+		</array>
+		<array>
+			<string>github.com_DebugUself_du4proto_issues_75.312i1l2z.txt</string>
+		</array>
+		<array>
+			<string>github.com_DebugUself_du4proto_issues_72.2b1g2u1x.txt</string>
+		</array>
+		<array>
+			<string>github.com_DebugUself_du4proto_issues_72.331i2f2w.txt</string>
+		</array>
+		<array>
+			<string>github.com_DebugUself_du4proto_issues_28.2v2c222d.txt</string>
+		</array>
+		<array>
+			<string>github.com_DebugUself_du4proto_issues_75.2f2u3a1y.txt</string>
+		</array>
+		<array>
+			<string>github.com_DebugUself_du4proto_issues_78.232i3b2r.txt</string>
+		</array>
+		<array>
+			<string>github.com_DebugUself_du4proto_issues_78.1h1f252z.txt</string>
+		</array>
+		<array>
+			<string>github.com_DebugUself_du4proto_issues_83.1u2i252x.txt</string>
+		</array>
+		<array>
+			<string>github.com_DebugUself_du4proto_issues_82.1j2z2d1u.txt</string>
+		</array>
+		<array>
+			<string>github.com_DebugUself_du4proto_issues_83.1j2f2r2s.txt</string>
+		</array>
+		<array>
+			<string>github.com_DebugUself_du4proto_issues_85.3b2e2c3e.txt</string>
+		</array>
+		<array>
+			<string>github.com_13416136446_BP_Github_issues_5.1y3a2q1g.txt</string>
+		</array>
+		<array>
+			<string>github.com_DebugUself_du4proto_issues_23.39251e1l.txt</string>
+		</array>
+		<array>
+			<string>github.com_AIWriter_Writer004_issues_188.2u2z2r1u.txt</string>
+		</array>
+		<array>
+			<string>2017-04-28 writer004.txt</string>
+		</array>
+		<array>
+			<string>github.com_AIWriter_Writer004_issues_188.362p3e1h.txt</string>
+		</array>
+		<array>
+			<string>github.com_DebugUself_du4proto_issues_87.1h1c2u30.txt</string>
 		</array>
 	</array>
 	<key>sheetOrder</key>
-	<string>title,descending</string>
+	<string>title</string>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
 	<key>versioning</key>
@@ -426,12 +751,12 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-			<integer>147</integer>
+			<integer>235</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
 			<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-			<integer>2</integer>
+			<integer>3</integer>
 		</dict>
 	</dict>
 </dict>
