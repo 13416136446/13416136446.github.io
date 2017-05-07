@@ -266,6 +266,20 @@
 					<integer>132</integer>
 				</dict>
 			</dict>
+			<key>repositoryfile.txt</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515830840.13974798</real>
+				<key>lastModification</key>
+				<real>515830840.13974798</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>199</integer>
+				</dict>
+			</dict>
 			<key>st1.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -340,6 +354,9 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>repositoryfile.txt</string>
+		</array>
 		<array>
 			<string>studyreport2.md</string>
 		</array>
@@ -447,7 +464,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-			<integer>196</integer>
+			<integer>199</integer>
 		</dict>
 	</dict>
 </dict>

@@ -2,7 +2,7 @@
 ---
 title:  Sublime Text / it’s all text / firefox
 categories: 
-- 写作环境
+- WriterEnvironment
 tags: 
 - firefox
 - Sublime Text
@@ -13,7 +13,7 @@ tags:
 
 - 从使用文本编辑器 Ulysses  + TextWangler( LPTHW 遗留至今），变成Ulysses  + Sublime Text
 	- Q: 下载了 Sublime Text 为什么不用？
-	- A：不知道研究大概需要多久，今天看大妈的展示：[openmindclub.qiniucdn.com/res/tr/tr_MDP2py4w_1_w1cli_rebuild.html]()(http://openmindclub.qiniucdn.com/res/tr/tr_MDP2py4w_1_w1cli_rebuild.html)，好像将命令行与代码编辑器合在一起了，看是不是这个 APP 搞定的。
+	- A：不知道研究大概需要多久，今天看大妈的展示：[openmindclub.qiniucdn.com/res/tr/tr\_MDP2py4w\_1\_w1cli\_rebuild.html]()(http://openmindclub.qiniucdn.com/res/tr/tr\_MDP2py4w\_1\_w1cli\_rebuild.html)，好像将命令行与代码编辑器合在一起了，看是不是这个 APP 搞定的。
 	- Q: Ulysses 的好处？
 	- A: 默认 .md 格式，
 		- 显示三级目录，

@@ -1,45 +1,8 @@
-## Enviornment
-- MacOS sierra 
-- python3.5.3
-
-##  Goal
-- 找到网页匹配的 http://...json/request/... url
-- have a url http://...json/request/...
-- the url can be used in pyspider
-- eg: https://mm.taobao.com/json/request_top_list.htm?page=
-
-## Puzzle
-- 网址的 url 都是以下的样子
-    - http://bbs.skykiwi.com/forum.php?mod=forumdisplay&fid=55
-    - 没有 json
-
-## Background
-- 用 pyspider 爬取固定网页
-- 网页暂为http://bbs.skykiwi.com/forum.php?mod=forumdisplay&fid=55
-
-## Action
-- google: json/request
-    + got module request
-    + 但是里面需要的仍然是有 json 的 url
-- google: 如何获得爬虫软件可以识别的 url?
-    + got module request
-    + 同上.
-- google: spider url json
-    +  scrapy doc
-- google: spider url json stack overflow
-    + url: json
-``` from scrapy.spider import BaseSpider
-import json
-from youtube.items import YoutubeItem
-class MySpider(BaseSpider):
-    name = "youtubecrawler"
-    allowed_domains = ["gdata.youtube.com"]
-    start_urls = ['http://www.gdata.youtube.com/feeds/api/standardfeeds/DE/most_popular?v=2&alt=json'
-```
-- py103: ch3
-    + API
-        * 有些网站提供这样的 url, 比如新知天气.
-        * 有些没有.
-
-## timelog
-卡在这里 120 min
+- 有同学一起做, 互相鼓励.
+- 分支: 134_spider
+- 进展: 自学 scrapy 中.
+- 环境:
+    + 怼圈分支
+    + Mac
+    + 网络教程
+    + github 代码

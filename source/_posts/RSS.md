@@ -1,7 +1,7 @@
 ---
 title:  博客也有朋友圈和通讯录 —— 新文章通知你
 categories: 
-- 写作环境
+- WriterEnvironment
 tags: 
 - RSS
 - social

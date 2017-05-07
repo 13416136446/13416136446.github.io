@@ -1,7 +1,7 @@
 ---
 title:  Read Github Guide
 categories: 
-- git
+- github
 tags:
 - git 
 - github
