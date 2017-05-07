@@ -8,8 +8,25 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Fri, 05 May 2017 16:02:34 GMT</pubDate>
+    <pubDate>Sun, 07 May 2017 06:19:59 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>版本仓库文件存放指南</title>
+      <link>http://ligdhe.com/2017/05/06/repositoryfile/</link>
+      <guid>http://ligdhe.com/2017/05/06/repositoryfile/</guid>
+      <pubDate>Sat, 06 May 2017 00:16:24 GMT</pubDate>
+      <description>
+      
+        &lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;仓库里应该放哪些文件格式,是做项目和协同重要的部分.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;意义&quot;&gt;&lt;a href=&quot;#意义&quot; 
+      
+      </description>
+      
+      <comments>http://ligdhe.com/2017/05/06/repositoryfile/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>提线木偶</title>
@@ -233,20 +250,6 @@
     </item>
     
     <item>
-      <title>出走</title>
-      <link>http://ligdhe.com/2017/03/31/chinawild/</link>
-      <guid>http://ligdhe.com/2017/03/31/chinawild/</guid>
-      <pubDate>Fri, 31 Mar 2017 10:08:44 GMT</pubDate>
-      <description>
-      
-        &lt;p&gt;女人光裸，捧着瓷器走独木桥，旁出的树枝不时触到脸颊。狭窄的只一脚宽的桥面，像模特走猫步才可通过。往远处看不会掉落，千万不能看脚下。这样想着，眼睛却不受控制的看下去。黑色地面上，隐隐有白色的形状，仔细看去，是几百只支棱的鹿角，斜斜刺向天空。谁会摆放这么多鹿角呢？不，那不是地面
-      
-      </description>
-      
-      <comments>http://ligdhe.com/2017/03/31/chinawild/#disqus_thread</comments>
-    </item>
-    
-    <item>
       <title>Read Github Guide</title>
       <link>http://ligdhe.com/2017/03/31/learngit/</link>
       <guid>http://ligdhe.com/2017/03/31/learngit/</guid>
@@ -258,6 +261,20 @@
       </description>
       
       <comments>http://ligdhe.com/2017/03/31/learngit/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>出走</title>
+      <link>http://ligdhe.com/2017/03/31/chinawild/</link>
+      <guid>http://ligdhe.com/2017/03/31/chinawild/</guid>
+      <pubDate>Fri, 31 Mar 2017 10:08:44 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;女人光裸，捧着瓷器走独木桥，旁出的树枝不时触到脸颊。狭窄的只一脚宽的桥面，像模特走猫步才可通过。往远处看不会掉落，千万不能看脚下。这样想着，眼睛却不受控制的看下去。黑色地面上，隐隐有白色的形状，仔细看去，是几百只支棱的鹿角，斜斜刺向天空。谁会摆放这么多鹿角呢？不，那不是地面
+      
+      </description>
+      
+      <comments>http://ligdhe.com/2017/03/31/chinawild/#disqus_thread</comments>
     </item>
     
     <item>
