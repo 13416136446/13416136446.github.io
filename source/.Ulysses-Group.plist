@@ -4,6 +4,7 @@
 <dict>
 	<key>childOrder</key>
 	<array>
+		<string>source</string>
 		<string>_drafts</string>
 		<string>_posts</string>
 		<string>life</string>
@@ -76,6 +77,20 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
+			<key>source</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516025708.44066697</real>
+				<key>lastModification</key>
+				<real>516025708.44066697</real>
+				<key>version</key>
+				<dict>
+					<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
 			<key>tags</key>
 			<dict>
 				<key>lastModification</key>
@@ -95,7 +110,7 @@
 		<key>childOrder</key>
 		<dict>
 			<key>a6cafa6b6dbe84907e0275253afa8235a2ecfbaed5c938e2b400188366a6ec95</key>
-			<integer>3</integer>
+			<integer>6</integer>
 		</dict>
 	</dict>
 </dict>
